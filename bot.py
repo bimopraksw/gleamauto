@@ -16,9 +16,7 @@ banner = f"""
     {putih}AUTO Claim {hijau}GLEAM 
     
     {putih}By: {hijau}qyzan
-    {putih}Github: {hijau}https://github.com/qyzan
-    
-    {hijau}Message: {putih}Dont Forget To Claim Every Day
+
 """
 print(banner)
 
